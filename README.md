@@ -1,2 +1,2 @@
-# Sistemas-Distribuidos - Practica 1
-Jalpilla Lopez Andres - 2TV7
+# Sistemas-Distribuidos - 
+Jalpilla Lopez Andres - 
